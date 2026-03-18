@@ -41,12 +41,6 @@ Produced by Canadian Map makers, this outdoor adventure map is the first compreh
 * **-> Maps donated to Ridge Meadows Seach and Rescue for all their operational needs.**
 
 
-![](/spacer.png)  
-#### FREE Golden Ears e-map on OVERDUE
-![](/TCM-in-hand.jpg)  
-
-With the Golden Ears paper map comes with an access code to enable FREE access to the e-map on the OVERDUE App.
-Go to <a>https://overdue.info/</a> for more details about OVERDUE. *Note that OVERDUE e-maps have now replaced Gaia e-maps.*
 
 ![](/spacer.png)
 
