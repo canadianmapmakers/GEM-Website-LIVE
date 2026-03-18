@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Comprehensive topo trail map covering GOLDEN EARS PROVINCIAL PARK including all the park trails, Mount Robie Reid, Blue Mountain Moto Trails, Woodlot Mountain Biking Area, Alouette Lake, Stave Lake (West) and Northern Maple Ridge. Produced by Canadian Map Makers, this 1:20,000 scale map spans from Pitt Lake to Stave Lake to Mount Robie Reid. Printed on durable and waterproof synthetic paper making it ideal for tough weather conditions."
+  content : "xComprehensive topo trail map covering GOLDEN EARS PROVINCIAL PARK including all the park trails, Mount Robie Reid, Blue Mountain Moto Trails, Woodlot Mountain Biking Area, Alouette Lake, Stave Lake (West) and Northern Maple Ridge. Produced by Canadian Map Makers, this 1:20,000 scale map spans from Pitt Lake to Stave Lake to Mount Robie Reid. Printed on durable and waterproof synthetic paper making it ideal for tough weather conditions."
   button:
     enable : true
     label : "Find Out More"
